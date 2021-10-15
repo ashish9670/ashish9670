@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashish9670
 - 👀 I’m interested in data analytics.
-- 🌱 Have learnt Jira Fundamentals.
+- 🌱 Have learnt Jira Fundamentals from Atlassian University. Completion ID: 175815584. Score 90%.
 - 💞️ My Wordpress page ashishrai65.wordpress.com.
 - 📫 How to reach me email: ashishr_99@yahoo.com
 - Am good in Excel, so if anybody requires help there, I can help. Willing to be part of a project in Excel.
