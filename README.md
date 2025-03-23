@@ -9,4 +9,5 @@
 <!---
 ashish9670/ashish9670 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Appeared for and passed NISM Exams for Mutual Fund Distributors Certification on 2 March 2025. Registered with AMFI India as a mutual fund distributor.
 --->
