@@ -9,4 +9,4 @@
 - #Opentowork. Have an Indian passport valid upto 10 August 2028. Hold valid US Visa. US B1/B2 multiple entry 10 years visa. Visa no. R8464993. Canada visitor visa # H053305825 until passport expiry, i.e. 10 August 2028. Visited the US - New York and California and Canada - Ontario.
 - Appeared for and passed NISM Exams for Mutual Fund Distributors Certification on 2 March 2025. Registered with SEBI regulated AMFI India, NISM V-A series certified mutual fund distributor - ARN-323916. EUIN:614324.
 <img width="336" height="477" alt="Financial Expertise in Investment Solutions" src="https://github.com/user-attachments/assets/cf96833f-f025-4cac-8177-f08477e0e02c" />
-Using Staging Ground of Stack Overflow to ask questions. Joined “Personal Finance & Money” and “Quantitative Finance” communities in Stackoverflow.com.
+Using Staging Ground of Stack Overflow to ask questions. Joined “Personal Finance & Money” and “Quantitative Finance” communities in Stackoverflow.com - Earned Scholar Badge in Stackoverflow.com
